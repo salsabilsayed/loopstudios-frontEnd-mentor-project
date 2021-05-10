@@ -315,8 +315,11 @@ footer p{
     footer li:hover a::before{
         right: 50%;
     }
+    footer img{
+        padding-top:10px;
+    }
     .social li{
-
+        padding-top:0;
         position: relative;
     }
     .social li:hover i::after{
