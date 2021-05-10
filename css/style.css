@@ -168,7 +168,7 @@ h2{
     }
     .sec-2 h2{
         padding-top: 60px;
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 }
 /* our creation section */
@@ -231,6 +231,7 @@ h2{
     .creation h2{
         width:50%;
         text-align: left;
+        font-size: 3rem
     }
     .creation .btn{
         order: 1;
