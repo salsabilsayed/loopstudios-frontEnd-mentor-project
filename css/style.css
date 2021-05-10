@@ -25,7 +25,7 @@ h1, h2, h3{
 
 /* header section */
 header{
-    height: 100vh;
+    height: 80vh;
     background-image: url('../images/mobile/image-hero.jpg');
     background-position: center center;
     background-size: 100% 100%;
